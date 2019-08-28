@@ -1,0 +1,8 @@
+server:
+  port: 9090
+spring:
+  kafka:
+    bootstrap-servers: 127.0.0.1:9092
+app:
+  topic:
+    foo: frankfeekr
